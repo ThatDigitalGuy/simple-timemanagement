@@ -1,5 +1,5 @@
 {
-	"name": "time",
+	"name": "my-app",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
@@ -13,13 +13,10 @@
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
-		"svelte": "^4.2.19",
+		"svelte": "^4.2.7",
 		"svelte-check": "^4.0.0",
 		"typescript": "^5.0.0",
 		"vite": "^5.0.3"
 	},
-	"type": "module",
-	"dependencies": {
-		"@sveltestrap/sveltestrap": "^6.2.7"
-	}
+	"type": "module"
 }
